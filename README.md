@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MallikaKonkar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mallika-konkar/)](https://www.linkedin.com/in/mallika-konkar/) [![Github Badge](https://img.shields.io/badge/-MallikaKonkar-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mallikakonkar/)](https://www.github.com/mallikakonkar/) 
 
 <p align='left'> 
-I'm a full stack software developer based in Mumbai. I love learning and implementing new technologies.
+I'm a full stack software developer and a competitive programmer based in Mumbai. I love learning and implementing new technologies.
 
 Currently, pursuing Bachelor of Engineering in Information Technology from DJ Sanghvi College of Engineering, graduating in May 2022.
 
